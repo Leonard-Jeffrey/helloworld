@@ -3,4 +3,6 @@ My name is jeffrey.Now, I am studying git/github.
 V1：没有回滚信息，看到此条记录说明回滚成功
 V2：验证回滚命令，看到此条记录说明回滚失败
 
-修复bug,然后合并到主分支；
+修复bug,然后合并到主分支；然后会发生冲突，如果我更改这一行的内容！
+
+
